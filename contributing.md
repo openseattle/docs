@@ -75,7 +75,7 @@ behavior is not welcome.
 
 ## Communication
 
-See the [Open Seattle contact page](https://openseattle.org/contact) for detailed communication and maintainer contact information.
+See the [Open Seattle contact page](http://openseattle.org/contact) for detailed communication and maintainer contact information.
 
 Please follow the conduct guidelines above in all communication about this project. Language issues
 are often contentious and we'd like to keep discussion brief, civil and focused

@@ -22,7 +22,7 @@ Please let us know if you have concerns or ideas for improvements.
 
 Here are a few ways you can comment on or suggest changes to these guides & policies:
 
-- Create an issue in this repository's issues queue: https://github.com/openseattle/docs/issues
+- Create an issue in this repository's issues queue: https://github.com/openseattle/organization/issues
 - Leave a message in the #organizers channel of the [Open Seattle slack group](https://openseattle.slack.com). ([Link to join the slack](https://openseattleslack.herokuapp.com))
 - Send an email to hi@openseattle.org
 
@@ -50,6 +50,6 @@ It is important that this project contributes to a friendly, safe, and welcoming
 ## Contact
 
 - **chat** – You can chat about this project at [openseattle.slack.com](https://openseattle.slack.com). Get an invite to the slack at [openseattleslack.herokuapp.com](https://openseattleslack.herokuapp.com).
-- **issues** – Please open issues in the [issues queue](https://github.com/openseattle/docs/issues)
+- **issues** – Please open issues in the [issues queue](https://github.com/openseattle/organization/issues)
 - **twitter** – [@open_seattle](https://twitter.com/open_seattle)
 - **email** – hi@openseattle.org

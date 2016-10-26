@@ -11,13 +11,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/openseattle/docs.git"
+    "url": "git+https://github.com/openseattle/organization.git"
   },
   "author": "",
   "bugs": {
-    "url": "https://github.com/openseattle/docs/issues"
+    "url": "https://github.com/openseattle/organization/issues"
   },
-  "homepage": "https://github.com/openseattle/docs#readme",
+  "homepage": "https://github.com/openseattle/organization#readme",
   "dependencies": {
     "minidocs": "^4.1.2"
   },
