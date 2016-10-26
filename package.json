@@ -1,0 +1,28 @@
+{
+  "name": "docs",
+  "version": "1.0.0",
+  "description": "Organizational documentation for Open Seattle",
+  "main": "contents.js",
+  "scripts": {
+    "docs:local": "minidocs . -c contents.js -o site --pushstate --logo logo.png --css style.css",
+    "docs:deploy": "minidocs . -c contents.js -o site --full-html --logo logo.png --css style.css",
+    "deploy": "npm run docs:deploy && staticland site/ open-seattle-organization.static.land",
+    "start": "npm run docs:local && budo -d site --pushstate"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/openseattle/docs.git"
+  },
+  "author": "",
+  "bugs": {
+    "url": "https://github.com/openseattle/docs/issues"
+  },
+  "homepage": "https://github.com/openseattle/docs#readme",
+  "dependencies": {
+    "minidocs": "^4.1.2"
+  },
+  "devDependencies": {
+    "budo": "^9.2.1",
+    "staticland": "^2.0.2"
+  }
+}

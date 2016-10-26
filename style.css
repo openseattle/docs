@@ -1,0 +1,48 @@
+* {
+  font-family: -apple-system,BlinkMacSystemFont,avenir next,avenir,helvetica,helvetica neue,ubuntu,roboto,noto,segoe ui,arial,sans-serif;
+}
+
+pre, code, pre *, code * {
+  font-family: Consolas, "Liberation Mono", Menlo, Courier, monospace;
+}
+
+.minidocs-menu-wrapper .h1,
+.minidocs-menu-wrapper .h2,
+.minidocs-menu-wrapper .h3 {
+  font-weight: 500;
+  margin-top: 30px;
+}
+
+.minidocs-menu-wrapper .h1 {
+  font-size: 20px;
+}
+
+.minidocs-menu-wrapper .h2 {
+  font-size: 18px;
+}
+
+.minidocs-menu-wrapper .h3 {
+  font-size: 16px;
+}
+
+.minidocs-menu-wrapper .h1:before,
+.minidocs-menu-wrapper .h2:before,
+.minidocs-menu-wrapper .h3:before {
+  content: ''
+}
+
+.minidocs-main {
+  padding-top: 50px;
+}
+
+@media (min-width: 600px) {
+  .minidocs-header h1 {
+    font-size: 16px;
+  }
+}
+
+@media (min-width: 750px) {
+  .minidocs-header h1 {
+    font-size: 22px;
+  }
+}
