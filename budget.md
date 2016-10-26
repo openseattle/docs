@@ -1,6 +1,6 @@
 # Budget
 
-> Detailed budget in the works! This is a rough outline based on previous years.
+> Detailed budget in the works! This is a rough outline based on previous years, with the intent of holding more, larger events.
 
 ## 2017 draft budget
 

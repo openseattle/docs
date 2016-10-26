@@ -32,7 +32,7 @@ Here are a few ways you can comment on or suggest changes to these guides & poli
 - [code of conduct](code-of-conduct.md)
 - [contributing](contributing.md)
 - [events](events.md)
-- [talks night](events-talks-night.md)
+- [talks night](talks-night.md)
 - [projects](projects.md)
 - [governance](governance.md)
 - [budget](budget.md)

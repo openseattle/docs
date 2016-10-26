@@ -4,7 +4,7 @@ module.exports = {
   'code of conduct': 'code-of-conduct.md',
   contributing: 'contributing.md',
   events: 'events.md',
-  'talks night': 'events-talks-night.md',
+  'talks night': 'talks-night.md',
   projects: 'projects.md',
   governance: 'governance.md',
   budget: 'budget.md',
