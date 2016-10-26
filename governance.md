@@ -20,8 +20,12 @@ Each year 5 lead organizers are selected to perform the core organizing duties o
 
 ### Application process
 - Apply to become a lead organizer by end of November: https://openseattle.org/lead-organizer-application
-- Selected applicants interview with appointment committee first week of December
-- Announcements in first week of January.
+- Selected applicants interview with appointment committee during first & second weeks of December
+- Announcements in first week of January
+
+### Appointment process
+- A committee of 3 local community organizers will oversee the appointment process. This may be outgoing lead organizers, leaders of partner community organizations, or members of the board of the non-profit that fiscally sponsors Open Seattle.
+- Applications are reviewed and applicants are interviewed in the first two weeks of December.
 
 ### FAQ about becoming a lead organizer
 
