@@ -4,8 +4,8 @@
   "description": "Organizational documentation for Open Seattle",
   "main": "contents.js",
   "scripts": {
-    "docs:local": "minidocs . -c contents.js -o site --pushstate --logo logo.png --css style.css",
-    "docs:deploy": "minidocs . -c contents.js -o site --full-html --logo logo.png --css style.css",
+    "docs:local": "minidocs . -c contents.js -o site --pushstate --logo logo.png --css style.css -t 'Open Seattle organizers documentation'",
+    "docs:deploy": "minidocs . -c contents.js -o site --full-html --logo logo.png --css style.css -t 'Open Seattle organizers documentation'",
     "deploy": "npm run docs:deploy && staticland site/ open-seattle-organization.static.land",
     "start": "npm run docs:local && budo -d site --pushstate"
   },
