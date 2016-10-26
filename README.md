@@ -4,9 +4,27 @@ Organizational documentation for Open Seattle.
 
 See a draft version of this online at [open-seattle-organization.static.land](https://open-seattle-organization.static.land).
 
+[![conduct][conduct]][conduct-url]
+[conduct]: https://img.shields.io/badge/code%20of%20conduct-contributor%20covenant-green.svg?style=flat-square
+[conduct-url]: code-of-conduct.md
+
 ## About
 
 Policies, guidelines, and other docs related to organizing Open Seattle.
+
+## Work in progress
+
+This is a draft of Open Seattle guiding policies & resources for lead organizers.
+
+Please let us know if you have concerns or ideas for improvements.
+
+### Commenting on this draft
+
+Here are a few ways you can comment on or suggest changes to these guides & policies:
+
+- Create an issue in this repository's issues queue: https://github.com/openseattle/docs/issues
+- Leave a message in the #organizers channel of the [Open Seattle slack group](https://openseattle.slack.com). ([Link to join the slack](https://openseattleslack.herokuapp.com))
+- Send an email to hi@openseattle.org
 
 ## Table of contents
 
@@ -15,7 +33,7 @@ Policies, guidelines, and other docs related to organizing Open Seattle.
 - [code of conduct](code-of-conduct.md)
 - [contributing](contributing.md)
 - [events](events.md)
-- [talks niht](events-talks-night.md)
+- [talks night](events-talks-night.md)
 - [projects](projects.md)
 - [governance](governance.md)
 - [budget](budget.md)
