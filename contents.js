@@ -1,5 +1,5 @@
 module.exports = {
-  introduction: 'README.md',
+  introduction: 'introduction.md',
   mission: 'mission.md',
   'code of conduct': 'code-of-conduct.md',
   contributing: 'contributing.md',

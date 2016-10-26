@@ -6,7 +6,7 @@ See a draft version of this online at [open-seattle-organization.static.land](ht
 
 [![conduct][conduct]][conduct-url]
 [conduct]: https://img.shields.io/badge/code%20of%20conduct-contributor%20covenant-green.svg?style=flat-square
-[conduct-url]: code-of-conduct.md
+[conduct-url]: /code-of-conduct
 
 ## About
 
@@ -28,24 +28,24 @@ Here are a few ways you can comment on or suggest changes to these guides & poli
 
 ## Table of contents
 
-- [mission](mission.md)
-- [code of conduct](code-of-conduct.md)
-- [contributing](contributing.md)
-- [events](events.md)
-- [talks night](events-talks-night.md)
-- [projects](projects.md)
-- [governance](governance.md)
-- [budget](budget.md)
-- [sponsors & partners](sponsors.md)
-- [fiscal sponsor](fiscal-sponsor.md)
+- [mission](/mission)
+- [code of conduct](/code-of-conduct)
+- [contributing](/contributing)
+- [events](/events)
+- [talks night](/events-talks-night)
+- [projects](/projects)
+- [governance](/governance)
+- [budget](/budget)
+- [sponsors & partners](/sponsors)
+- [fiscal sponsor](/fiscal-sponsor)
 
 ## Contributing
 
-Contributions are welcome! Please read the [contributing guidelines](contributing.md) first.
+Contributions are welcome! Please read the [contributing guidelines](/contributing) first.
 
 ## Conduct
 
-It is important that this project contributes to a friendly, safe, and welcoming environment for all. Read this project's [code of conduct](code-of-conduct.md)
+It is important that this project contributes to a friendly, safe, and welcoming environment for all. Read this project's [code of conduct](/code-of-conduct)
 
 ## Contact
 
