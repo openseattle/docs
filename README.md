@@ -2,7 +2,7 @@
 
 Organizational documentation for Open Seattle.
 
-See a draft version of this online at [open-seattle-organization.static.land](https://open-seattle-organizers.static.land).
+See a draft version of this online at [open-seattle-organization.static.land](https://open-seattle-organization.static.land).
 
 ## About
 
