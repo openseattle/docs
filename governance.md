@@ -24,8 +24,14 @@ Each year 5 lead organizers are selected to perform the core organizing duties o
 - Announcements in first week of January
 
 ### Appointment process
-- A committee of 3 local community organizers will oversee the appointment process. This may be outgoing lead organizers, leaders of partner community organizations, or members of the board of the non-profit that fiscally sponsors Open Seattle.
+- A committee of local community organizers will oversee the appointment process. This may be outgoing Open Seattle lead organizers, leaders of partner community organizations, or members of the board of the non-profit that fiscally sponsors Open Seattle.
 - Applications are reviewed and applicants are interviewed in the first two weeks of December.
+
+For the 2017 application process the application review includes:
+
+- Shelly Farnham – Executive Director & Research Scientist at Third Place Technologies
+- Sarah Schacht – Operations Manager at Identity Ecosystem Steering Group
+- Sabrina Roach – Doer at Brown Paper Tickets, specializing in public media and digital equity
 
 ### FAQ about becoming a lead organizer
 
