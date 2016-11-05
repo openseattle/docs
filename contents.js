@@ -6,6 +6,7 @@ module.exports = {
   events: 'events.md',
   'talks night': 'talks-night.md',
   projects: 'projects.md',
+  resources: 'resources.md',
   governance: 'governance.md',
   budget: 'budget.md',
   'sponsors & partners': 'sponsors.md',
