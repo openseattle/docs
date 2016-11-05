@@ -34,6 +34,7 @@ Here are a few ways you can comment on or suggest changes to these guides & poli
 - [events](events.md)
 - [talks night](talks-night.md)
 - [projects](projects.md)
+- [resources](resources.md)
 - [governance](governance.md)
 - [budget](budget.md)
 - [sponsors & partners](sponsors.md)
