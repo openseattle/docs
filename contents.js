@@ -10,5 +10,6 @@ module.exports = {
   governance: 'governance.md',
   budget: 'budget.md',
   'sponsors & partners': 'sponsors.md',
-  'fiscal sponsor': 'fiscal-sponsor.md'
+  'fiscal sponsor': 'fiscal-sponsor.md',
+  'volunteer policy': 'volunteer-policy.md'
 }

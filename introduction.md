@@ -41,6 +41,7 @@ Here are a few ways you can comment on or suggest changes to these guides & poli
 - [budget](/budget)
 - [sponsors & partners](/sponsors)
 - [fiscal sponsor](/fiscal-sponsor)
+- [volunteer policy](/volunteer-policy)
 
 ## Contributing
 
